@@ -51,7 +51,7 @@ pip install torch torchvision matplotlib seaborn scikit-learn numpy
 
 From the repository root:
 
-jupyter notebook notebooks/contrastive_learning_tutorial.ipynb
+jupyter notebook notebooks/machine learning code.ipynb
 
 3. Run All Cells
 
